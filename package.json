@@ -1,6 +1,6 @@
 {
   "name": "vite-template-react",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "A Vite + React starter template.",
   "main": "src/index.js",
   "scripts": {
